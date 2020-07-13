@@ -1,0 +1,12 @@
+body {
+	font-size: 16px;
+}
+p {
+	font-weight: bold;
+}
+h1 {
+	color: red;
+}
+h2 {
+	display: none;
+}
